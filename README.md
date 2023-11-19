@@ -6,8 +6,8 @@
 
 ### Задание 2 и 3
 Хосты:
-![Хосты:](https://github.com/hokum83/hw-02/blob/main/img/2-3.png)
+![Хосты:](https://github.com/hokum83/hw-03/blob/main/img/2-3.png)
 
 ### Задание 4
 Дашборд:
-![Дашборд:](https://github.com/hokum83/hw-02/blob/main/img/4.png)
+![Дашборд:](https://github.com/hokum83/hw-03/blob/main/img/4.png)
